@@ -1,5 +1,4 @@
 const mongoose = require("mongoose");
-const academikyear = require("./academikyear");
 
 const examresultSchema = new mongoose.Schema(
   {
